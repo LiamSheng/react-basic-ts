@@ -37,6 +37,12 @@
       color: #9499a0;
       font-size: 13px;
 
+      .nav-after-click {
+        color: #00aeec;
+        font-weight: bold;
+        text-decoration: underline;
+      }
+
       .nav-item {
         cursor: pointer;
 
